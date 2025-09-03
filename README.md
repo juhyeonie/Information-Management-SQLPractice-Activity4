@@ -36,5 +36,5 @@ Answers with explanations are in [`answers.md`](answers.md).
 
 ## 🚀 How to Use
 1. Run `dataset.sql` in your SQL environment (MySQL / SQL Server).  
-2. Open `queries.sql` and practice solving each problem.  
+2. Open `queries.md` and practice solving each problem.  
 3. Compare your results with [`answers.md`](answers.md).  
