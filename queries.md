@@ -1,0 +1,29 @@
+# 📄 Character Data Analysis – SQL Queries
+
+A list of SQL queries used to analyze character-related data such as salaries, gender, and status.
+
+---
+
+1. **Get the total number of characters**
+2. **Find the average salary of all characters**
+3. **Find the highest salary**
+4. **Find the lowest salary**
+5. **Count how many characters are female**
+6. **Show average salary of each gender**
+7. **Show how many characters per status** (Alive, Deceased, Retired)
+8. **Show the maximum salary per status**
+9. **Show the minimum salary per gender**
+10. **Show the total salary grouped by status**
+11. **Find all characters with salary greater than the average salary**
+12. **Find characters whose salary is less than the overall average**
+13. **Find characters whose salary is above the average salary of their gender**
+14. **Find characters whose salary is below the average salary of their gender**
+15. **Find the highest paid male character**
+16. **Find the highest paid female character**
+17. **Find the lowest paid male character**
+18. **Find the female character with the maximum salary**
+19. **Find the male character with the maximum salary**
+20. **Find characters whose salary is equal to the overall maximum salary**
+
+---
+
