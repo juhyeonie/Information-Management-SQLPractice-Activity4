@@ -2,6 +2,8 @@
 
 This repository contains **20 SQL practice problems** based on a custom dataset inspired by **Demon Slayer characters**.
 
+📝 **Note:** This project is part of my personal practice for **Activity 4** from our *Information Management* course.
+
 The exercises cover:
 - ✅ Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - ✅ GROUP BY + HAVING
@@ -36,7 +38,3 @@ Answers with explanations are in [`answers.md`](answers.md).
 1. Run `dataset.sql` in your SQL environment (MySQL / SQL Server).  
 2. Open `queries.sql` and practice solving each problem.  
 3. Compare your results with [`answers.md`](answers.md).  
-
----
-
-✨ This project is for **learning SQL**.
